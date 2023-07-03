@@ -1,5 +1,5 @@
 # PowerBi-Dashboard-IPL ANALYSIS REPORT
-About this project
+About this project-
 The IPL (Indian Premier League) is one of the most popular and widely followed cricket leagues in the world. It features top cricket players from around the world playing for various franchise teams in India. The league is known for its high-scoring matches, intense rivalries, and innovative marketing strategies.
 
 The IPL analysis dashboard created using Microsoft Power BI is a comprehensive visualization tool for analyzing Indian Premier League (IPL) cricket data. The IPL dataset on Kaggle contains information on over 950 IPL matches played from 2008 to 2022. It includes details on the date, time, venue, teams, players, and various statistics such as runs scored, wickets taken, and more which is use to create this dashboard. The dashboard also contains information on the individual performances of players and teams, as well as the overall performance of the league over the years.
